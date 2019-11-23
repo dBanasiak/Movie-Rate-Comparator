@@ -11,3 +11,4 @@ I train my engine on [IMDB](https://www.imdb.com) ratings. Then compares the res
 ### Technology stack
 - [Python](https://www.python.org/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Scrapy](https://docs.scrapy.org/en/latest/topics/spiders.html)
